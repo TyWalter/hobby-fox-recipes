@@ -21,13 +21,13 @@
 * Repo: [Click me](https://github.com/TyWalter/hobby-fox-recipes)
 
 ## Installation:
-<span style="color:lightskyblue">
+<code>
 
 * xxxxx
 * xxxxx
 * xxxxx
 
-</span>
+</code>
 
 ## Usage:
 
@@ -44,11 +44,16 @@
 
 ## Acknowledgments:
 * Thank you to [Bcrypt](https://www.npmjs.com/package/bcrypt)
+* Thank you to [CookieParser](https://www.npmjs.com/package/cookie-parser)
+* Thank you to [Concurrently](https://www.npmjs.com/package/concurrently)
 * Thank you to [Dotenv](https://www.npmjs.com/package/dotenv)
 * Thank you to [Express](https://www.npmjs.com/package/express)
 * Thank you to [FlatIcon](https://www.flaticon.com/)
 * Thank you to [Font Awesome](https://fontawesome.com/)
 * Thank you to [Google Fonts](https://fonts.google.com/)
+* Thank you to [JS-Cookie](https://www.npmjs.com/package/js-cookie)
+* Thank you to [JsonWebToken](https://www.npmjs.com/package/jsonwebtoken)
+* Thank you to [Mongoose](https://www.npmjs.com/package/mongoose)
 * Thank you to [Nodemon](https://www.npmjs.com/package/nodemon)
 * Thank you to [Path](https://www.npmjs.com/package/path)
 * Thank you to [React](https://react.dev/)
